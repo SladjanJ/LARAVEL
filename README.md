@@ -1,3 +1,3 @@
 # LARAVEL
 LARAVEL-MINI APP
-Projelat se nalazi u master-branch
+Projekat se nalazi u master-branch
